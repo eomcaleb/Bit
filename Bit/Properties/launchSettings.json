@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Bit": {
+      "commandName": "Project",
+      "commandLineArgs": "test"
+    }
+  }
+}
